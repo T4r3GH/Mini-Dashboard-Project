@@ -1,4 +1,11 @@
 # React + Vite
+# Mini Dashboard Project 
+this is a small dashboard project built with react and vite
+
+# How To Run 
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm run dev`
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
  
